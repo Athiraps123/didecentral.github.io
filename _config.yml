@@ -13,3 +13,5 @@ author        : "⧉ Infominer"
 logo          : "https://infominer.id/images/crypt0library.png"
 repository    : "infominer33/awesome-decentralized-id"
 github        : [metadata]
+
+theme: jekyll-theme-cayman
