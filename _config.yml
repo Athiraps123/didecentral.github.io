@@ -2,7 +2,9 @@ plugins:
     - jekyll-seo-tag
     - jekyll-github-metadata
     - jekyll-redirect-from
- 
+
+remote_theme  : mmistakes/minimal-mistakes
+
 url           : "http://infominer.id/awesome-decentralized-id"
 baseurl       : "/awesome-decentralized-id"
 title         : "Decentralized Identity"
