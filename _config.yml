@@ -3,13 +3,13 @@ plugins:
     - jekyll-github-metadata
     - jekyll-redirect-from
 
-url           : "https://infominer.id/awesome-decentralized-id"
-baseurl       : "awesome-decentralized-id"
+url           : "https://infominer.id/decentralized-id"
+baseurl       : "decentralized-id"
 title         : "Decentralized Identity"
 description   : "Self-Sovereign, User-Owned and Controlled, Internet-Wide Identity."
 author        : "⧉ Infominer"
 logo          : "https://infominer.id/images/crypt0library.png"
-repository    : "infominer33/awesome-decentralized-id"
+repository    : "infominer33/decentralized-id"
 github        : [metadata]
 
 theme: jekyll-theme-modernist

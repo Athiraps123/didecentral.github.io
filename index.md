@@ -1,5 +1,7 @@
-
-
+---
+redirect_from:
+  - "https://infominer.id/awesome-decentralized-id/"
+---
 # Awesome Decentralized Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 *Self-Sovereign, Blockchain and Decentralized Identity Resources*
 
