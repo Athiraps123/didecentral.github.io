@@ -35,9 +35,10 @@ Since the information is all inter-related, there is some overlapp. Skipping bac
     * [Research Papers](literature.md#research-papers-)
     * [Reports](literature.md#reports)
 * [Sources](#sources-)
-* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/awesome-decentralized-id/](https://infominer.id/awesome-decentralized-id/)
+* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
+* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
 * [infominer.id](https://infominer.id)
+
 
 
 ## Link Shorthand [**^**](#Contents)
@@ -170,8 +171,8 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 <a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
 
 ## [infominer.id](https://infominer.id)  ([**^**](#contents))
-* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
-* [infominer.id/awesome-decentralized-id/](https://infominer.id/awesome-decentralized-id/)
+* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
+* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
 
 
 **Tips Jar**

@@ -4,7 +4,7 @@ description   : "A start at listing all DID-SSI related GitHub Repositories."
 image         : "https://infominer.id/images/github.jpeg"
 redirect_from :
   - "https://infominer.id/awesome-decentralized-id/identity-github.html"
-  
+
 ---
 
 # SSI-DID Github Repositories
@@ -95,7 +95,7 @@ Please send [a message](../index.html#contact), open an issue or submit a pull-r
 * [/peacekeeper/blockchain-identity](#peacekeeperblockchain-identity-)
 * [/decentralized-id/decentralized-id.github.io](#decentralized-iddecentralized-idgithubio-)
 * [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
-* [infominer.id/awesome-decentralized-id](https://infominer.id/Decentralized-ID)
+* [infominer.id/Decentralized-ID](https://infominer.id/Decentralized-ID)
 * [infominer.id](https://infominer.id)
 
 

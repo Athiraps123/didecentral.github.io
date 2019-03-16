@@ -62,7 +62,7 @@ redirect_from:
   * [Microsoft](microsoft.md) >>
   * [IBM](ibm.md) >>
 * [Sources](#sources-)
-* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [github.com/infominer33/Decentralized-ID](https://github.com/infominer33/Decentralized-ID)
 * [infominer.id](https://infominer.id)
 
 
