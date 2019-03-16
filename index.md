@@ -12,9 +12,7 @@ For now, this is still home and best maintained.
 [[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
 • [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**^**](#contents)] back to the contents.
 
-
-<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align=right width="170" height="170"></a>
-
+<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
 
 * [Link Shorthand](#link-shorthand)
 * [What is Decentralized ID?](#what-is-decentralized-id-)
