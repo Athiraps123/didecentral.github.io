@@ -13,7 +13,8 @@ For now, this is still home and best maintained.
 • [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**^**](#contents)] back to the contents.
 
 
-<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align=right width="170" height="170"/>
+<a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align=right width="170" height="170"></a>
+
 
 * [Link Shorthand](#link-shorthand)
 * [What is Decentralized ID?](#what-is-decentralized-id-)
