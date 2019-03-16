@@ -4,7 +4,7 @@ plugins:
     - jekyll-redirect-from
 
 url           : "http://infominer.id/awesome-decentralized-id"
-baseurl       : "/awesome-decentralized-id"
+baseurl       : "/decentralized-id"
 title         : "Decentralized Identity"
 description   : "Self-Sovereign, User-Owned and Controlled, Internet-Wide Identity."
 author        : "⧉ Infominer"
