@@ -1,6 +1,6 @@
 ---
 redirect_from:
-  - awesome-decentralized-id/
+  - "awesome-decentralized-id/"
 ---
 
 # Awesome Decentralized Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
