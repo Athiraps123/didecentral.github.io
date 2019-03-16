@@ -1,3 +1,7 @@
+---
+canonical_url: "https://infominer.id/decentralized-id"
+---
+
 # Awesome Hyperledger Indy Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 <a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
 **Protocol, Governance, Education, Ecosystem** 
