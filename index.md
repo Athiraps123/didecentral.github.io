@@ -6,6 +6,7 @@ redirect_from:
   - "https://infominer.id/awesome-decentralized-id/index.html"
   - "https://infominer.id/decentralized-id/"
   - "https://infominer.id/awesome-decentralized-id/"
+
 ---
 # Self-Sovereign Identity Resources
 
