@@ -58,6 +58,8 @@ For now, this is still home and best maintained.
   * [Microsoft](microsoft.md) >>
   * [IBM](ibm.md) >>
 * [Sources](#sources-)
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id](https://infominer.id)
 
 
 *Pull Requests Welcome*
