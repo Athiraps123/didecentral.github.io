@@ -3,19 +3,19 @@ plugins:
     - jekyll-github-metadata
     - jekyll-redirect-from
 
-url           : "https://infominer.id/decentralized-id"
-baseurl       : "decentralized-id"
-title         : "Decentralized Identity"
-description   : "Self-Sovereign, User-Owned and Controlled, Internet-Wide Identity."
+url           : "https://infominer.id/Decentralized-ID"
+baseurl       : "Decentralized-ID"
+title         : Decentralized Identity — DID
+description   : "For a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 author        : "⧉ Infominer"
 logo          : "https://infominer.id/images/crypt0library.png"
-repository    : "infominer33/decentralized-id"
+repository    : "infominer33/Decentralized-ID"
 github        : [metadata]
 
 theme: jekyll-theme-modernist
 
 twitter:
-  title       : "Decentralized Identity"
-  description : "Self-Sovereign, User-Owned and Controlled, Internet-Wide Identity."
+  title       : Decentralized Identity — DID
+  description : "For a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
   image       : "https://infominer.id/images/og-image.jpg"
   card        : "summary"
