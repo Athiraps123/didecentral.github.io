@@ -2,8 +2,8 @@
 title: Decentralized Identity — DID
 description: "Resources for Creating a Vendor Agnostic, User-Controlled, Identity Layer for the Internet."
 redirect_from:
-  - "https://infominer.id/decentralized-id"
-  - "https://infominer.id/awesome-decentralized-id"
+  - "https://infominer.id/decentralized-id/"
+  - "https://infominer.id/awesome-decentralized-id/"
 ---
 # Self-Sovereign Identity Resources
 
