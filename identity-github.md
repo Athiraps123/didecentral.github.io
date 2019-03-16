@@ -8,7 +8,7 @@ image: "https://infominer.id/images/github.jpeg"
 
 Please send [a message](../index.html#contact), open an issue or submit a pull-request with any suggestions\recommendations.
 
-![](https://i.imgur.com/rsGOVgt.png)
+[![](https://i.imgur.com/rsGOVgt.png)](https://internetidentityworkshop.com/)
 
 ## Contents
 
