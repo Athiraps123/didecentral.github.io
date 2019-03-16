@@ -13,3 +13,9 @@ repository    : "infominer33/awesome-decentralized-id"
 github        : [metadata]
 
 theme: jekyll-theme-modernist
+
+twitter:
+  title       : "Decentralized Identity"
+  description : "Self-Sovereign, User-Owned and Controlled, Internet-Wide Identity."
+  image       : "https://infominer.id/images/og-image.jpg"
+  card        : "summary"
