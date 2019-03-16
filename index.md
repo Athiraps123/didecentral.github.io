@@ -1,3 +1,10 @@
+---
+title          : Awesome Decentralized Identity 
+description    : Self-Sovereign, Blockchain and Decentralized Identity Resources
+canonical_url  : "https://infominer.id/decentralized-id"
+---
+
+
 # Awesome Decentralized Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 *Self-Sovereign, Blockchain and Decentralized Identity Resources*
 
