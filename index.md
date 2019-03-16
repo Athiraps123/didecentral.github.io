@@ -7,7 +7,7 @@
 
 ## Contents
 [[**T**](#contents)]witter • [[**G**](#contents)]ithub • [[**B**](#contents)]log • [[**wp**](#contents)] whitepaper • [[**D**](#contents)]ocumentation • [[**F**](#contents)]orums • [[**C**](#contents)]hat • [[**tele**](#contents)]gram • [[**web**](#contents)]site
-• [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**^**](#contents)] back to the contents.
+• [[**ϟ**](#contents)] related resource • [[**>**](#contents)] related section • [[**>>**](#contents)] another page on site. • [[**^**](#contents)] back to the contents.
 
 <a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
 
@@ -78,8 +78,6 @@ It's impossible to have a conversation about decentralized-id without discussing
   * Blockchain fueled longstanding efforts to create a privacy preserving internet-wide identity protocol, and inspired development of decentralized networks for online identification. 
   * The United Nations Sustainable Development Goals (SDGs) have also helped to fueled efforts for a global and widely accessible identity solution.
 
-—[infominer.id](https://infominer.id)
-
 ## Decentralized Identity History [**^**](#contents)
 
 * [Losing Control over our Personal Information >>](history.md#losing-control-over-our-personal-information) '80s
@@ -101,7 +99,6 @@ It's impossible to have a conversation about decentralized-id without discussing
 * [Decentralized Identity Foundation >>](history.md#decentralized-identity-foundation-) '17
 * [Standards History >>](history.md#standards-history-)
 * [Resources >>](history.md#resources-)
-* [**infominer.id**](https://infominer.id)
 
 
 ## Self Sovereign Identity [**^**](#contents)
@@ -323,9 +320,11 @@ Other files and folders within this repository:
 
 ---
 
-## [infominer.id](https://infominer.id)  ([**^**](#contents))
-
 <a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
+
+## [infominer.id](https://infominer.id)  ([**^**](#contents))
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id/](https://infominer.id/awesome-decentralized-id/)
 
 **Tips Jar**
 

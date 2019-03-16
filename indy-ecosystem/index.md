@@ -167,9 +167,12 @@ Internet Identity Workshop is where the quest for concious, user-centric, identi
 
 ---
 
-## [infominer.id](https://infominer.id)  ([**^**](#contents))
-
 <a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
+
+## [infominer.id](https://infominer.id)  ([**^**](#contents))
+* [github.com/awesome-decentralized-id](https://github.com/infominer33/awesome-decentralized-id)
+* [infominer.id/awesome-decentralized-id/](https://infominer.id/awesome-decentralized-id/)
+
 
 **Tips Jar**
 
