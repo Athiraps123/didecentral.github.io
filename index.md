@@ -22,38 +22,38 @@ For now, this is still home and best maintained.
   * [W3C](#w3c-)
     * [DID the Decentralized Identifier](#did-the-decentralized-identifier-)
     * [Verifiable Claims](#verifiable-claims-)
-  * [Decentralized Key Managment DKMS](#decentralized-key-management-agents-)
+  * [Decentralized Key Managment DKMS]('#decentralized-key-management-agents-)
   * [DID Auth](#did-auth-) 
   * [Blockcerts](#blockcerts-)
   * [Schema](#schema-)
 * [DID Adoption](#did-adoption-)
-* [Directory](#directory) 
-  * [SSI\DID History](history.md)
-  * [Self Sovereign Identity](self-sovereign-identity)
-  * [GDPR](gdpr)
-  * [Humanitarian](humanitarian.md)  
-  * [Identity Related GitHub Repositories](identity-github.md)
-  * [Literature](literature.md)
-  * [Rebooting Web of Trust](rebooting-web-of-trust.md)
-  * [Media](media.md) - Video, Podcasts and Slideshare  
-  * [Decentralized Identity Foundation—DIF](identity-foundation.md)
-  * [Bitcoin](bitcoin.md)
-    * [Spidchain](bitcoin.md#spidchain-)
-  * [Ethereum](ethereum.md)
-    * [ERC-EIP](ethereum.md#erc-eip-)
-    * [uPort](ethereum.md#uport-)
-    * [Jolocom](ethereum.md#jolocom-)
-    * [Spidchain](ethereum.md#spidchain-)
-  * [Indy Ecosystem](indy-ecosystem/)
-    * [Adoption](indy-ecosystem/adoption.md)
-    * [Indy Github](indy-ecosystem/indy-github.md)
-    * [Literature](indy-ecosystem/literature.md)
-    * [Sovrin Foundation](indy-ecosystem/sovrin.foundation.md)
-    * [VON](indy-ecosystem/VON.md)
-  * [Hyperledger Global Forum](hgf-2018/)
-  * [State Sponsored](state-sponsored.md)
-  * [Microsoft](microsoft.md)
-  * [IBM](ibm.md)
+* [Directory](#directory) To other pages within this repository.
+  * [SSI\DID History](history.md) >>
+  * [Self Sovereign Identity](self-sovereign-identity) >>
+  * [GDPR](gdpr) >>
+  * [Humanitarian](humanitarian.md) >>
+  * [Identity Related GitHub Repositories](identity-github.md) >>
+  * [Literature](literature.md) >>
+  * [Rebooting Web of Trust](rebooting-web-of-trust.md) >>
+  * [Media](media.md) >> - Video, Podcasts and Slideshare  
+  * [Decentralized Identity Foundation—DIF](identity-foundation.md) >>
+  * [Bitcoin](bitcoin.md) >>
+    * [Spidchain](bitcoin.md#spidchain-) >>
+  * [Ethereum](ethereum.md) >>
+    * [ERC-EIP](ethereum.md#erc-eip-) >>
+    * [uPort](ethereum.md#uport-) >>
+    * [Jolocom](ethereum.md#jolocom-) >>
+    * [Spidchain](ethereum.md#spidchain-) >>
+  * [Indy Ecosystem](indy-ecosystem/) >>
+    * [Adoption](indy-ecosystem/adoption.md) >>
+    * [Indy Github](indy-ecosystem/indy-github.md) >>
+    * [Literature](indy-ecosystem/literature.md) >>
+    * [Sovrin Foundation](indy-ecosystem/sovrin.foundation.md) >>
+    * [VON](indy-ecosystem/VON.md) >>
+  * [Hyperledger Global Forum](hgf-2018/) >>
+  * [State Sponsored](state-sponsored.md) >>
+  * [Microsoft](microsoft.md) >>
+  * [IBM](ibm.md) >>
 * [Sources](#sources-)
 
 
