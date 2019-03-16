@@ -14,7 +14,6 @@ For now, this is still home and best maintained.
 
 <a href="https://infominer.id"><img src="https://infominer.id/android-chrome-256x256.png" align="right" width="170" height="170"/></a>
 
-* [Link Shorthand](#link-shorthand)
 * [What is Decentralized ID?](#what-is-decentralized-id-)
 * [Decentralized Identity History](#decentralized-identity-history-)
 * [What is Self Sovereign Identity?](#self-sovereign-identity-)
@@ -23,7 +22,7 @@ For now, this is still home and best maintained.
   * [W3C](#w3c-)
     * [DID the Decentralized Identifier](#did-the-decentralized-identifier-)
     * [Verifiable Claims](#verifiable-claims-)
-  * [Decentralized Key Managment DKMS](#decentralized-key-management-dkms-)
+  * [Decentralized Key Managment DKMS](#decentralized-key-management-agents-)
   * [DID Auth](#did-auth-) 
   * [Blockcerts](#blockcerts-)
   * [Schema](#schema-)
