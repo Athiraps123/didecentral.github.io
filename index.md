@@ -1,8 +1,3 @@
----
-redirect_from:
-  - "awesome-decentralized-id/"
----
-
 # Awesome Decentralized Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 *Self-Sovereign, Blockchain and Decentralized Identity Resources*
 
