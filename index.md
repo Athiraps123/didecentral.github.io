@@ -1,7 +1,3 @@
----
-title          : Awesome Decentralized Identity 
-description    : Self-Sovereign, Blockchain and Decentralized Identity Resources
----
 
 
 # Awesome Decentralized Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
